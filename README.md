@@ -6,7 +6,8 @@ This is for all yall future payton students, and is a guide on the infromation s
 ## Purpose:
 Develop a neater, more informative, more readable, and more space effiecent display for the screen in the center of the atrium
 ## The Software
-This is a website, duh, that pulls from a couple diffrent api's and displays the infromation
+This is a website , that pulls from a couple diffrent api's and displays the infromation
+APIs: CTA Train Tracker, CTA Bus Tracker, CTA Customer Alerts, and a weather API.
 It uses writen CSS, no externals like boot stramp, partially becuase I don't need animations and all that jazz
 It also uses in line JS, to fetch data, and manipulate it to be displayed
 ## The Hardware
